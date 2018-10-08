@@ -30,6 +30,6 @@ in my new 6h workshop (after reactive and Finchley) i will cover:
  - distributed tracing w/ Zipkin client and Kafka
  - Circuit Breaker dashboard  (w/ Turbine - havent tried this yet)
  - SSO w/ Spring Cloud Security (whts this look like w/ Spring Security 5 and OIDC support)
- - microservice testing w/ Spring Cloud Contract (i havent tries this yet in a reactive world)
+ - microservice testing w/ Spring Cloud Contract (I haven't tries this yet in a reactive world)
  - Kotlin
- - edge services /microproxies/api gateways w Spring Cloud Gateay
+ - edge services /microproxies/api gateways w Spring Cloud Gateway
